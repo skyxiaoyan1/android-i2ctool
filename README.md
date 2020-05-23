@@ -1,6 +1,6 @@
 # android-i2ctool
 移植 开源的 i2c-tools-4.1 到 Android 设备
-代码均为 开源的 i2c-tools-4.1 备份bin方便使用
+代码均为 开源 i2c-tools-4.1 备份bin方便使用
 ### 编译
 进入clone的目录 可放入 external/
 mm .
